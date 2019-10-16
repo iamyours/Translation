@@ -1,0 +1,1 @@
+- [Your android libraries should not ask for an application context]()
